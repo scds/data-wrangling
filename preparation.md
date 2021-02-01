@@ -4,6 +4,11 @@ title: Preparation
 nav_order: 2
 ---
 
+# Workshop Preparation 
+For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web browser. Follow the [instructions](https://datacarpentry.org/openrefine-socialsci/setup.html) provided by the Data Carpentries to install OpenRefine on your system (whether it is Window, Mac, or Linux). 
+
+When you have OpenRefine installed and working, proceed to the [introductory lecture](introduction.md) for a primer on data wrangling. 
+
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
