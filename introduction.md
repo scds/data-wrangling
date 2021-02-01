@@ -15,6 +15,8 @@ nav_order: 3
 [Download as a PDF](https://github.com/scds/data-wrangling/raw/main/assets/docs/DMDS-data-wrangling.pdf)
 <br>
 
+Proceed to the [tutorial page](openrefine.md) to start wrangling data with OpenRefine. 
+
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 <!--
