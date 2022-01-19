@@ -5,9 +5,9 @@ This repository contains workshop files, as well as files used to create the [wo
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Jay Brodeur 
+- Content edited for online use by Jay Brodeur
+- Online pages created by Jay Brodeur
 
 
   
