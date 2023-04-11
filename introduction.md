@@ -5,7 +5,9 @@ nav_order: 3
 ---
 
 # Introduction to Data Wrangling
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/fb6f9858-7230-46fa-919a-56d7b3ab0915/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/18afd0fb-431f-433b-865c-f1731f4bf17a/public"></iframe>
+
+Watch the original video [here](https://echo360.ca/media/18afd0fb-431f-433b-865c-f1731f4bf17a/public).
 
 
 ## Slides
