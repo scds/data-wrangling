@@ -1,7 +1,7 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# Data Wrangling with OpenRefine.
+Materials for the DMDS workshop: Data Wrangling with OpenRefine
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/data-wrangling/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
